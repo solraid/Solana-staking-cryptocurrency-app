@@ -1,8 +1,4 @@
 # 🏴‍☠️ Solraid: Solana-staking-cryptocurrency-app
-Solraid is an elite Solana staking cryptocurrency platform. Stake SOL, hunt yield opportunities, and deploy precision strategies on the fastest blockchain. Maximum yield. Minimum friction.
-
-This is a structured GitHub README template tailored for **Solraid**. It uses the "elite raiding" branding found on the site to create a professional yet high-energy profile for the project.
-
 **Solraid** is a high-performance DeFi execution platform built on Solana. We empower "Raiders" to identify, track, and strike the most profitable yield opportunities and token launches across the ecosystem with surgical precision.
 
 **[Join the Raid Now](https://solraid-pink.vercel.app/)**
